@@ -2,22 +2,29 @@
   {
     "id": "prod_001",
     "name": "Добрый Кола",
-    "description": "Напиток Добрый Кола",
+    "description": "Напиток Добрый Кола 250мл",
     "image_name": "cola",
     "price": 100
   },
   {
     "id": "prod_002",
     "name": "Сырники",
-    "description": "Обычные сырники",
+    "description": "Обычные сырники 300гр",
     "image_name": "syrniki",
     "price": 300
   },
   {
     "id": "prod_003",
     "name": "Добрый Спрайт",
-    "description": "Напиток Добрай Спрайт",
+    "description": "Напиток Добрый Спрайт 250мл",
     "image_name": "sprite",
     "price": 100
-  }
+  },
+   {
+    "id": "prod_004",
+    "name": "Бабл-ти",
+    "description": "Бабл-ти 300мл"
+    "image_name": "bubbletea",
+    "price": 250
+  },
 ]
