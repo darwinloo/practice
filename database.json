@@ -3,21 +3,18 @@
     "id": "prod_001",
     "name": "Добрый Кола",
     "description": "Напиток Добрый Кола",
-    "price": 100,
-    "image_url": "https://github.com/darwinloo/practice/tree/main/images/cola.png",
+    "price": 100
   },
   {
     "id": "prod_002",
     "name": "Сырники",
     "description": "Обычные сырники",
-    "price": 300,
-    "image_url": "https://github.com/darwinloo/practice/tree/main/images/syrniki.png",
+    "price": 300
   },
   {
     "id": "prod_003",
     "name": "Добрый Спрайт",
     "description": "Напиток Добрай Спрайт",
-    "price": 100,
-    "image_url": "https://github.com/darwinloo/practice/tree/main/images/sprite.png",
+    "price": 100
   }
 ]
