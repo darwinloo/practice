@@ -3,18 +3,21 @@
     "id": "prod_001",
     "name": "Добрый Кола",
     "description": "Напиток Добрый Кола",
+    "image_name": "cola",
     "price": 100
   },
   {
     "id": "prod_002",
     "name": "Сырники",
     "description": "Обычные сырники",
+    "image_name": "syrniki",
     "price": 300
   },
   {
     "id": "prod_003",
     "name": "Добрый Спрайт",
     "description": "Напиток Добрай Спрайт",
+    "image_name": "sprite",
     "price": 100
   }
 ]
