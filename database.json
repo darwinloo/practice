@@ -8,23 +8,100 @@
   },
   {
     "id": "prod_002",
-    "name": "Сырники",
-    "description": "Обычные сырники 300гр",
-    "image_name": "syrniki",
-    "price": 300
-  },
-  {
-    "id": "prod_003",
     "name": "Добрый Спрайт",
     "description": "Напиток Добрый Спрайт 250мл",
     "image_name": "sprite",
     "price": 100
   },
   {
-    "id": "prod_004",
+    "id": "prod_003",
     "name": "Бабл-ти",
     "description": "Бабл-ти 300мл",
     "image_name": "bubbletea",
     "price": 250
+  }
+  {
+    "id": "prod_004",
+    "name": "Чай",
+    "description": "Чай 500мл",
+    "image_name": "tea",
+    "price": 450
+  },
+  {
+    "id": "prod_005",
+    "name": "Добрый Фанта",
+    "description": "Напито Добрый Фанта 250мл",
+    "image_name": "fanta",
+    "price": 100
+  },
+  {
+    "id": "prod_006",
+    "name": "Маленький чай в пакете",
+    "description": "Маленький пакетик чая 150мл",
+    "image_name": "tea_in_bag",
+    "price": 50
+  },
+  {
+    "id": "prod_007",
+    "name": "Добрый Спрайт",
+    "description": "Напиток Добрый Спрайт 250мл",
+    "image_name": "sprite",
+    "price": 100
+  },
+  {
+    "id": "prod_008",
+    "name": "Сырники",
+    "description": "Обычные сырники 300г",
+    "image_name": "syrniki",
+    "price": 300
+  },
+  {
+    "id": "prod_009",
+    "name": "Печенье рыбка",
+    "description": "Печенье рыбка 300г",
+    "image_name": "fish_cookie",
+    "price": 300
+  },
+  {
+    "id": "prod_010",
+    "name": "Маленький набор суши",
+    "description": "Маленький набор суши 450г",
+    "image_name": "small_set_of_sushi",
+    "price": 600
+  },
+  {
+    "id": "prod_011",
+    "name": "Средний набор роллов и суши№1",
+    "description": "Средний набор роллов и суши 800г",
+    "image_name": "just_rolls_and_sushi",
+    "price": 1200
+  },
+  {
+    "id": "prod_012",
+    "name": "Средний набор роллов и суши№2",
+    "description": "Средний набор роллов и суши(немного дургой) 800г",
+    "image_name": "just_rolls_and_sushi_2",
+    "price": 1200
+  },
+  {
+    "id": "prod_013",
+    "name": "FULL HOUSE",
+    "description": "Большрй набор роллов и суши 2000г + (васаби, соевый соус и палочки)",
+    "image_name": "full_house",
+    "price": 2600
+  },
+  {
+    "id": "prod_014",
+    "name": "Палочки",
+    "description": "Палочки x1",
+    "image_name": "sticks",
+    "price": 25
+  },
+  {
+    "id": "prod_015",
+    "name": "Васаби",
+    "description": "Пакетик с васаби 100г",
+    "image_name": "wasabi",
+    "price": 100
   }
 ]
